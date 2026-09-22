@@ -1,0 +1,7 @@
+insertion_sort(arr)
+# selection_sort(arr)
+# merge_sort(arr)
+# print("Sorted array is:",arr)
+# heap_sort(arr)
+# q=quick_sort(arr)
+# print("Sorted array is:",q)
