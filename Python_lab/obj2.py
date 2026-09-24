@@ -47,4 +47,11 @@ print("Membership (a not in [10, 20, 30]):",a not in [10, 20, 30])
 
 # Assignment operators
 print("Assignment operators:")
-# print("Assignment (a+=b):",a+=b)
+a+=b
+print("Assignment (a+=b):",a)
+a-=b
+print("Assignment (a-=b):",a)
+a*=b
+print("Assignment (a*=b):",a)
+a/=b
+print("Assignment (a/=b):",a)
